@@ -30,7 +30,7 @@
     color: var(--white-color);
     margin-bottom: 10px;
   }
-  .footer__social-item > .social__list-link {
+  .footer__social-item > .footer__social-link {
     margin-right: 10px;
     display: flex;
     align-items: center;
@@ -44,8 +44,8 @@
   .footer__social-item .social-icon {
     fill: var(--white-color);
   }
-  .footer__social-item .social__list-link:hover,
-  .footer__social-item .social__list-link:focus {
+  .footer__social-item .footer__social-link:hover,
+  .footer__social-item .footer__social-link:focus {
     background-color: var(--active-link);
   }
   .footer__social-list {

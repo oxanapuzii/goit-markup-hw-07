@@ -75,7 +75,7 @@ body {
   align-items: center;
 }
 
-.logo-studio__web {
+.logo-studio-web {
   color: var(--active-link);
 }
 
@@ -137,7 +137,7 @@ body {
   margin-left: auto;
 }
 
-.contacts-link__item {
+.contacts__item {
   display: flex;
   align-items: center;
 }
@@ -668,7 +668,7 @@ img {
   margin-bottom: 10px;
 }
 
-.footer__social-item > .social__list-link {
+.footer__social-item > .footer__social-link {
   margin-right: 10px;
   display: flex;
   align-items: center;
@@ -684,8 +684,8 @@ img {
   fill: var(--white-color);
 }
 
-.footer__social-item .social__list-link:hover,
-.footer__social-item .social__list-link:focus {
+.footer__social-item .footer__social-link:hover,
+.footer__social-item .footer__social-link:focus {
   background-color: var(--active-link);
 }
 
